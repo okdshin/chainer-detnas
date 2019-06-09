@@ -1,0 +1,3 @@
+[submodule "chainercv"]
+	path = chainercv
+	url = https://github.com/chainer/chainercv.git

@@ -1,1 +1,1 @@
-detnas
+DetNAS implementation
