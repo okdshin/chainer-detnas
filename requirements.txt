@@ -1,0 +1,15 @@
+chainer==6.0.0
+chainer-computational-cost==0.1.1
+-e git+https://github.com/chainer/chainercv.git@0942bd819cbab22f040cdb1beeef9d4fb498ad5e#egg=chainercv&subdirectory=../../chainercv
+cupy-cuda100==6.0.0
+Cython==0.29.10
+fastrlock==0.4
+filelock==3.0.12
+numpy==1.16.4
+Pillow==6.0.0
+pkg-resources==0.0.0
+protobuf==3.7.1
+six==1.12.0
+texttable==1.6.1
+typing==3.6.6
+typing-extensions==3.7.2
