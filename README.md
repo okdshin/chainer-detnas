@@ -1,4 +1,4 @@
 DetNAS implementation
 
 
-See https://arxiv.org/abs/1903.10979
+See ["DetNAS: Neural Architecture Search on Object Detection"](https://arxiv.org/abs/1903.10979)
